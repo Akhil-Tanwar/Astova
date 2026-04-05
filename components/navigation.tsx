@@ -14,6 +14,7 @@ export function Navigation() {
     { href: "/pricing", label: "Pricing" },
     { href: "/blog", label: "Blog" },
     { href: "/contact", label: "Contact" },
+    { href: "/sql-tutorial", label: "SQL Tutorial" },
   ]
 
   return (
